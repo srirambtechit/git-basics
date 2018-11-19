@@ -1,10 +1,9 @@
-# git-basics
+# Git-basics
 
 ## Mardown content online editor
-https://stackedit.io/app#
+[https://stackedit.io/app#](https://stackedit.io/app#)
 
-## Getting Started
-
+## Getting Started - Large File Storage
 Download and install the Git command line extension. You only have to set up Git LFS once.
 
 `git lfs install`
@@ -15,9 +14,10 @@ Select the file types you'd like Git LFS to manage (or directly edit your .gitat
 
 Make sure .gitattributes is tracked
 
-`git add .gitattributes`
+`git add .gitattributes`  
+
 There is no step three. Just commit and push to GitHub as you normally would.
 
-`git add file.psd`
-`git commit -m "Add design file"`
+`git add file.psd`  
+`git commit -m "Add design file"` 
 `git push origin master`
