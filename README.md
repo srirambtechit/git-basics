@@ -19,5 +19,5 @@ Make sure .gitattributes is tracked
 There is no step three. Just commit and push to GitHub as you normally would.
 
 `git add file.psd`  
-`git commit -m "Add design file"` 
+`git commit -m "Add design file"`  
 `git push origin master`
